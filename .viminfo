@@ -1,0 +1,199 @@
+# この viminfo ファイルは Vim 7.4 によって生成されました.
+# 変更する際には十分注意してください!
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~H
+# 最後の 検索パターン:
+~MSle0~/\<IncludeOptional\>
+
+# 最後に置換された文字列:
+$
+
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:wq
+:q!
+:'<,'>q!
+:w
+:q
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+? \<IncludeOptional\>
+?/80
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+"0	LINE	0
+	 date.timezone = Asia/Tokyo
+""1	LINE	0
+		"composer-plugin-api": "~1.0",
+"2	LINE	0
+	 date.timezone = Asia/Tokyo
+"3	LINE	0
+	-;date.timezone =
+"-	CHAR	0
+	+
+
+# ファイルマーク:
+'0  18  36  /mnt/fuelphp/app/fuel/vendor/composer/installed.json
+'1  74  32  /mnt/fuelphp/app/fuel/vendor/composer/installers/composer.json
+'2  18  8  /mnt/fuelphp/app/composer.json
+'3  53  0  /mnt/fuelphp/app/composer.json
+'4  17  20  /mnt/fuelphp/app/composer.json
+'5  1  0  ~/.composer
+'6  1  0  /mnt/fuelphp/app/fuel/core/config/config.php
+'7  21  0  /mnt/fuelphp/app/public/index.php
+'8  353  0  /etc/httpd/conf/httpd.conf
+'9  5  0  /etc/php.ini
+
+# ジャンプリスト (新しいものが先):
+-'  18  36  /mnt/fuelphp/app/fuel/vendor/composer/installed.json
+-'  1  0  /mnt/fuelphp/app/fuel/vendor/composer/installed.json
+-'  74  32  /mnt/fuelphp/app/fuel/vendor/composer/installers/composer.json
+-'  1  0  /mnt/fuelphp/app/fuel/vendor/composer/installers/composer.json
+-'  18  8  /mnt/fuelphp/app/composer.json
+-'  53  0  /mnt/fuelphp/app/composer.json
+-'  17  8  /mnt/fuelphp/app/composer.json
+-'  1  0  /mnt/fuelphp/app/composer.json
+-'  1  0  ~/.composer
+-'  1  0  /mnt/fuelphp/app/fuel/core/config/config.php
+-'  420  0  /mnt/fuelphp/app/fuel/core/config/config.php
+-'  31  2  /mnt/fuelphp/app/fuel/core/config/config.php
+-'  21  0  /mnt/fuelphp/app/public/index.php
+-'  1  0  /mnt/fuelphp/app/public/index.php
+-'  353  0  /etc/httpd/conf/httpd.conf
+-'  5  0  /etc/php.ini
+-'  4  0  /etc/php.ini
+-'  42  7  /etc/httpd/conf/httpd.conf
+-'  41  20  /etc/httpd/conf/httpd.conf
+-'  95  28  /etc/httpd/conf/httpd.conf
+-'  200  6  /etc/httpd/conf/httpd.conf
+-'  1  0  /etc/httpd/conf/httpd.conf
+-'  161  39  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  1  0  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  7  1  /etc/php.ini
+-'  3  1  /etc/php.ini
+-'  1  1  /etc/php.ini
+-'  161  39  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  1  0  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  161  39  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  1  0  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  161  39  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  1  0  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  161  39  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  1  0  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  161  39  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  1  0  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  161  39  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  1  0  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  161  39  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  1  0  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  161  39  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  1  0  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  161  39  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  1  0  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  161  39  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  1  0  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  161  39  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  1  0  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  161  39  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  1  0  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  161  39  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  1  0  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  161  39  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  1  0  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  161  39  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  1  0  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  5  0  /etc/php.ini
+-'  4  0  /etc/php.ini
+-'  161  39  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  1  0  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  7  1  /etc/php.ini
+-'  3  1  /etc/php.ini
+-'  1  1  /etc/php.ini
+-'  161  39  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  1  0  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  161  39  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  1  0  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  161  39  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  1  0  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  161  39  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  1  0  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  161  39  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  1  0  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  161  39  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  1  0  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  161  39  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  1  0  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  161  39  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  1  0  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  161  39  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  1  0  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  161  39  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  1  0  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  161  39  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  1  0  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  161  39  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  1  0  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  161  39  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  1  0  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  161  39  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  1  0  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  5  0  /etc/php.ini
+-'  4  0  /etc/php.ini
+-'  161  39  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  1  0  /mnt/fuelphp/app/fuel/core/classes/fuel.php
+-'  7  1  /etc/php.ini
+-'  3  1  /etc/php.ini
+-'  1  1  /etc/php.ini
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> /mnt/fuelphp/app/fuel/vendor/composer/installed.json
+	"	18	36
+	^	18	37
+	.	18	36
+	+	18	36
+
+> /mnt/fuelphp/app/fuel/vendor/composer/installers/composer.json
+	"	74	32
+	^	74	33
+	.	74	32
+	+	74	32
+
+> /mnt/fuelphp/app/composer.json
+	"	18	8
+	.	18	0
+	+	18	0
+	+	18	0
+	+	17	22
+	+	18	0
+
+> /mnt/fuelphp/app/fuel/core/config/config.php
+	"	1	0
+
+> /mnt/fuelphp/app/public/index.php
+	"	21	0
+
+> /etc/httpd/conf/httpd.conf
+	"	353	0
+
+> /etc/php.ini
+	"	5	0
+	^	4	1
+	.	4	0
+	+	4	0
+
+> /mnt/fuelphp/app/fuel/core/classes/fuel.php
+	"	161	39
+	^	161	40
+	.	161	39
+	+	161	39

@@ -1,0 +1,10 @@
+<VirtualHost *:80>
+  DocumentRoot /mnt/fuelphp/CTFW/app/public
+  <Directory /mnt/fuelphp/CTFW/app>
+    Options FollowSymLinks Indexes
+    AllowOverride all
+    Require all granted
+    EnableMMAP Off 
+    EnableSendfile Off
+  </Directory>
+</VirtualHost>
